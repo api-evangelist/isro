@@ -1,0 +1,32 @@
+aid: isro
+name: ISRO
+description: "ISRO Space Crafts Information"
+url: https://isro.vercel.app
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Science & Math"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Science And Math
+  - Public APIs
+apis:
+  - name: ISRO
+    description: "ISRO Space Crafts Information"
+    humanURL: https://isro.vercel.app
+    baseURL: https://isro.vercel.app
+    tags:
+      - Science And Math
+    properties:
+      - type: Documentation
+        url: https://isro.vercel.app
+common:
+  - type: Website
+    url: https://isro.vercel.app
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
